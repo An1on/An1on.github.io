@@ -1,5 +1,5 @@
 const [info, phases] = [].slice.apply(document.querySelector('.buttons').children);
-
+ga('create', 'UA-XXXXX-Y', 'auto', 'tracker1');
 function sendInfoAboutSettings() {
   console.error('send');
 
