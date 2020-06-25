@@ -33,3 +33,7 @@ h2 em {
 #thumbs a:hover {
   border-color: #FF9900;
 }
+
+.buttons {
+  padding: 40px;
+}
